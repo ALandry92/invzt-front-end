@@ -1,0 +1,18 @@
+.card {
+
+    border: 2px solid #e7e7e7;
+
+    border-radius: 4px;
+
+    padding: .5rem;
+
+}
+
+.stock-container {
+    width: 300px;
+    height: 300px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
